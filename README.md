@@ -12,5 +12,7 @@ These is how my configuration is going
 2|**i3_commands**| Commands and how to use i3wm|[Click Here](i3_commands)
 3|**i3_gaps**| How to install and config gaps on i3|[CLick Here](i3_gaps)
 4|**compton**| Control de Transparency from i3 terminal| [Click Here](compton)
+5|**gtop**| Control what is happening with gtop|[Click Here](gtop)
+6|**ranger**| See files on terminal using VIM commands|[Click Here](ranger)
 
 

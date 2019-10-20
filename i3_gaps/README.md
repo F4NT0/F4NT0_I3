@@ -2,6 +2,8 @@
 
 **i3-gaps** e um programa para i3wm que faz com que se possa configurar as telas para que se tenha gaps entre elas, ou seja , que nao fiquem todas juntas e estrague o Workflow
 
+<img src="../images/i3-gaps.png">
+
 ## Instalacao
 
 Rode o arquivo `install_i3gaps.sh` onde tem todos os comandos necessarios para instalar no seu i3wm

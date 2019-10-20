@@ -2,6 +2,8 @@
 
 **i3wm** e um Window Manager para Linux, onde e apresentado um sistema simples para Desenvolvedores poderem ter um Workflow mais rapido e constante em um sistema bem leve
 
+<img src="../images/i3_config.png">
+
 ## Baixando o i3wm
 
 1. Apos baixado um Sistema Operacional a seu gosto, abra um terminal e coloque esse comando:
@@ -12,11 +14,11 @@ sudo apt-get install i3
 
 2. Depois inicie seu sistema e quando for colocar sua senha procure uma opcao de trocar a opcao de inicializacao(se for ubuntu, faca como abaixo)
 
-<img src="">
+<img src="../images/i3_choose.jpg">
 
-3. Depois de iniciado o Sistema, ele ira aparecer assim:
+3. Depois de iniciado o Sistema, ele ira aparecer assim,sem a imagem de fundo:
 
-<img src="">
+<img src="../images/startup.png">
 
 4. Para trocar a imagem do fundo da tela inicial use o seguinte programa chamado **feh**:
     * `sudo apt-get install feh`
