@@ -1,0 +1,30 @@
+[/]
+list=['c5380114-a316-4a6c-a464-75365a4d4fa0']
+default='c5380114-a316-4a6c-a464-75365a4d4fa0'
+
+[:c5380114-a316-4a6c-a464-75365a4d4fa0]
+foreground-color='#ffffffffffff'
+highlight-foreground-color='#'
+scrollbar-policy='never'
+login-shell=false
+palette=['rgb(255,255,255)', 'rgb(255,85,85)', 'rgb(85,255,85)', 'rgb(255,255,85)', 'rgb(199,33,226)', 'rgb(255,85,255)', 'rgb(32,16,224)', 'rgb(187,187,187)', 'rgb(193,187,187)', 'rgb(255,85,85)', 'rgb(85,255,85)', 'rgb(255,255,85)', 'rgb(199,33,226)', 'rgb(255,85,255)', 'rgb(235,149,19)', 'rgb(255,255,255)']
+visible-name='Dark Pastel'
+custom-command='sudo vim ~/.bashrc'
+scroll-on-keystroke=true
+cursor-shape='ibeam'
+use-custom-command=false
+highlight-colors-set=true
+use-system-font=false
+exit-action='close'
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-transparency=false
+allow-bold=true
+use-theme-background=false
+use-transparent-background=true
+bold-color-same-as-fg=true
+bold-color='#ffffffffffff'
+background-color='#000000000000'
+background-transparency-percent=37
+highlight-background-color='#'
+audible-bell=false
