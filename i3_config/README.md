@@ -47,6 +47,18 @@ new_window 1pixel
 ```
     * No meu config ja existe esse comando
 
+## Retirando as barras do seu terminal gnome
+
+* Primeiro iremos tirar o Scrollbar do terminal:
+    * Va no terminal em Edit > Preferences > Profile > no tema que estiver usando > Scrolling > Desabilite o `show scrollbar`
+
+<img src="../images/scrollbar.png">
+
+* Segundo vamos tirar a barra de informacoes encima do terminal, seguinto o seguinte passo
+    * Va no terminal em Edit > Progile > General > Desabilite `show menubar by default in new terminals`
+
+<img src="../images/take-off_menubar.png">
+
 ## Arquivos deste diretorio
 
 Nome|Para que serve

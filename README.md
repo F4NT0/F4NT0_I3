@@ -14,5 +14,6 @@ These is how my configuration is going
 4|**compton**| Control de Transparency from i3 terminal| [Click Here](compton)
 5|**gtop**| Control what is happening with gtop|[Click Here](gtop)
 6|**ranger**| See files on terminal using VIM commands|[Click Here](ranger)
+7|**i3status**| Config from i3status|[Click Here](i3_status)
 
 
