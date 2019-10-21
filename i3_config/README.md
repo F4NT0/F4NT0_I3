@@ -59,6 +59,25 @@ new_window 1pixel
 
 <img src="../images/take-off_menubar.png">
 
+* Se quiser fazer aparecer de novo, abra um novo terminal com o seguinte comando `gnome-terminal --show-menubar`
+
+## Trocando a cor das telas focadas
+
+* A cor basica que vem junto e azul ,mas podemos mudar a cor de uma tela focada, dessa forma abaixo a tela focada sera verde
+
+* Ponha essa linha no arquivo de configuracao do i3
+
+```bash
+ # CHANGE COLORS FROM THE SYSTEM
+ # focus window
+ # class         border   background  text    indicator child_border
+ client.focused  #5B900D   #000000   #008000  #2e9ef4   #5B900D
+
+```
+
+<img src="../images/color_focus.gif">
+
+
 ## Arquivos deste diretorio
 
 Nome|Para que serve
