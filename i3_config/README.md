@@ -20,9 +20,23 @@ sudo apt-get install i3
 
 <img src="../images/startup.png">
 
-4. Para trocar a imagem do fundo da tela inicial use o seguinte programa chamado **feh**:
-    * `sudo apt-get install feh`
-    * `feh --bg-fill caminho/para/img/imagem.extensao`
+## Colocando uma imagem de fundo
+
+* Para trocar a imagem do fundo da tela inicial use o seguinte programa chamado **feh**:
+    * Instale o feh:
+        * `sudo apt-get install feh`
+    * Como configurar a imagem:
+```bash
+# para que a imagem se adeque a tela
+feh --bg-fill caminho/para/img/imagem.extensao
+# para que a imagem fique no centro da tela
+feh --bg-center caminho/para/img/imagem.extensao
+```
+
+* Adicione essa info no arquivo **~/.profile** e reinicie o sistema
+* Abaixo tem um exemplo de um arquivo .profile
+
+<img src="../images/profile_background.png">
 
 ## Configurando o i3
 

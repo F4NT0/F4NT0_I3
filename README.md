@@ -4,6 +4,8 @@ This Repository works to Configure an i3wm with programs to help programming, ev
 
 These is how my configuration is going
 
+<img src="images/main_i3wm.gif">
+
 * These are the Directories on this Repository in order of importancy
 
 |Importancy|Name|Use|Link
