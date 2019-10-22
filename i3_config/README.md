@@ -75,6 +75,13 @@ new_window 1pixel
 
 * Se quiser fazer aparecer de novo, abra um novo terminal com o seguinte comando `gnome-terminal --show-menubar`
 
+## Fonte do meu Sistema
+
+* A Fonte que uso e `Ubuntu Mono Regular` na fonte 12
+* Abra o menu do terminal gnome e clique em Edit e va no seu Profile
+
+<img src="../images/font.png">
+
 ## Trocando a cor das telas focadas
 
 * A cor basica que vem junto e azul ,mas podemos mudar a cor de uma tela focada, dessa forma abaixo a tela focada sera verde
@@ -107,6 +114,7 @@ Nome Do Programa|Para que Serve
 |---|---|
 **compton**| Serve para deixar o terminal transparente
 **i3-gaps**| Serve para criar gaps entre cada nova tela aberta
+**ranger**| Serve para criar uma visualizacao via terminal
 
 * Para Download e configuracao do compton, clique [Aqui](../compton)
 
