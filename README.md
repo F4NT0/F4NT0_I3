@@ -19,5 +19,7 @@ These is how my configuration is going
 7|**i3status**| Config from i3status|[Click Here](i3_status)
 8|**theme**| Import/Export the theme from my system|[Click Here](theme)
 9|**i3lock**| Change the configuration from the lock screen|[Click Here](i3lock)
+10|**blueman**| Serve to control bluetooth connections on i3wm|[Click Here](blueman)
+11|**nautilus**| Open a GUI vision from the Directories on i3|[Click Here](nautilus)
 
 

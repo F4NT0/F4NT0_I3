@@ -17,3 +17,7 @@ dconf load /org/gnome/terminal/legacy/profiles:/ < gnome-terminal-profiles.dconf
 O arquivo que se encontra neste diretorio e o meu arquivo de cores do meu sistema
 
 <img src="../images/my-colorscheme.png">
+
+## Font I`m Using
+
+My .ttf font is `Input Mono Bold 9`
